@@ -1,4 +1,4 @@
-# HappyPing
+# PingUP
  This is a simple web chat application. This application allows private chatting between two logged-in users. The technologies, software, database and libraries used to create this app are:
   1. NodeJS
   2. React
